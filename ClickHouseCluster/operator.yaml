@@ -3492,6 +3492,7 @@ data:
         <listen_host>::</listen_host>
         <listen_host>0.0.0.0</listen_host>
         <listen_try>1</listen_try>
+        <listen_reuse_port>1</listen_reuse_port>
     </yandex>
 
   01-clickhouse-02-logger.xml: |
